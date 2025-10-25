@@ -125,7 +125,7 @@
 
   {"group_en":"White","group_th":"สีขาว","name":"White","thai_name":"ขาว","hex":"#FFFFFF","rgb":[255,255,255]},
   {"group_en":"White","group_th":"สีขาว","name":"Snow","thai_name":"หิมะ","hex":"#FFFAFA","rgb":[255,250,250]},
-  {"group_en":"White","group_th":"สีขาว","name":"HoneyDew","thai_name":"น้ำผึ้งบนใบไม้","hex":"#F0FFF0","rgb":[240,255,240]},
+  {"group_en":"White","group_th":"สีขาว","name":"HoneyDew","thai_name":"น้ำหวานบนใบไม้","hex":"#F0FFF0","rgb":[240,255,240]},
   {"group_en":"White","group_th":"สีขาว","name":"MintCream","thai_name":"ครีมมิ้นท์","hex":"#F5FFFA","rgb":[245,255,250]},
   {"group_en":"White","group_th":"สีขาว","name":"Azure","thai_name":"เอเชอร์","hex":"#F0FFFF","rgb":[240,255,255]},
   {"group_en":"White","group_th":"สีขาว","name":"AliceBlue","thai_name":"อลิซบลู","hex":"#F0F8FF","rgb":[240,248,255]},
